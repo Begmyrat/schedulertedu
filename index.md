@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-###Hello TEDU
+### Hello TEDU
+## Begmyrat Mammedov
+## Ahmet Sağdiç
 
 You can use the [editor on GitHub](https://github.com/Begmyrat/schedulertedu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
